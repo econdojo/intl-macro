@@ -4,7 +4,7 @@ International economics takes both the micro and macro perspectives to study how
 
 ## Class Information
 
-* [Spring 2024 Syllabus](/assets/e4310/E4310syllabus.pdf)
+* [Spring 2024 Syllabus](/pdf/E4310syllabus.pdf)
 * **Location:** Cook Hall 240
 * **Time:** TR 12:45pm-2:00pm
 * **Office hours:** TR 2:00pm-3:00pm & by appointment
