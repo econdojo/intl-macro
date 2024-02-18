@@ -14,7 +14,7 @@ International economics takes both the micro and macro perspectives to study how
 
 ## Lecture Slides
 
-* [Lecture 0: Understanding the Market](/pdf/E3120Slides0.pdf)
+* [Lecture 0: Understanding the Market](https://github.com/econdojo/inter-macro/blob/main/pdf/E3120Slides0.pdf)
 * [Lecture 1: Introduction](/pdf/E4310lec1.pdf)
 * [Lecture 2: National Income Accounting and Balance of Payments](/pdf/E4310lec2.pdf)
 * [Lecture 3: Exchange Rates and Foreign Exchange Market](/pdf/E4310lec3.pdf)
