@@ -1,12 +1,12 @@
-# ECON 6100 - Applied Bayesian Statistics
+# ECON 4310 - International Macroeconomics
 
-This course provides a detailed coverage of Bayesian inferential methods and their applications to a variety of problems drawn from economics and business. Starting with basic concepts of probability and inference, the treatment covers prior and posterior distributions, classical and MCMC simulation methods, regressions for univariate and multivariate outcomes, and computation of the marginal likelihood and model choice. The key learning objective is for students to develop *hands-on* Bayesian and Python skills required to conduct data analysis useful for economic and financial decision making. The course will help prepare students entering doctoral education or starting careers in economics, finance, marketing, operations, accounting, political science, statistics, and biostatistics.
+International economics takes both the micro and macro perspectives to study how nations interact through trade of goods and services, flows of money, and investment. It can be divided into two interrelated subfields: international trade and international finance. This course adopts the macro perspective on international economics, building on the foundations developed in intermediate-level macroeconomics. It provides analytical tools and formal models to explain, in particular, balance of payments and exchange rate determination. Students can apply this set of tools and models to understand current international macroeconomic events, forecast the behavior of the global economy, assess the impact of real world policy choices, and make money.
 
 ## Class Information
 
-* [Spring 2024 Syllabus](/pdf/E6100syllabus.pdf)
-* **Location:** Cook Hall 236
-* **Time:** Tuesday 6:00pm-9:15pm
+* [Spring 2024 Syllabus](/assets/e4310/E4310syllabus.pdf)
+* **Location:** Cook Hall 240
+* **Time:** TR 12:45pm-2:00pm
 * **Office hours:** TR 2:00pm-3:00pm & by appointment
 * **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
 * **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
@@ -14,28 +14,12 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 
 ## Lecture Slides
 
-* [Lecture 1: Basic Concepts of Probability and Inference](/pdf/E6930Slides1.pdf)
-* [Lecture 2: Posterior Distributions and Inference](/pdf/E6930Slides2.pdf)
-* [Lecture 3: Prior Distributions](/pdf/E6930Slides3.pdf)
-* [Lecture 4: Classical Simulation](/pdf/E6930Slides4.pdf)
-* [Lecture 5: Basics of Markov Chains](/pdf/E6930Slides5.pdf)
-* [Lecture 6: Simulation by MCMC Methods](/pdf/E6930Slides6.pdf)
-* [Lecture 7: Linear Regression and Extensions](/pdf/E6930Slides7.pdf)
-* [Lecture 8: Multivariate Responses](/pdf/E6930Slides8.pdf)
-* [Lecture 9: Time Series](/pdf/E6930Slides9.pdf)
-
-## Python Programs
-
-* [Python grammatical basics](/code/01-python-grammar.ipynb)
-* [Data operations with pandas](/code/02-data-analysis.ipynb)
-* [Array operations with numpy](/code/03-ndarray.ipynb)
-* [Classical simulation methods](/code/04-classical-simu.ipynb)
-* [MCMC simulation methods](/code/05-mcmc-simu.ipynb)
-* [Application to regression with Student-t error](/code/06-app-student-t.ipynb)
-* [Application to Tobit censored regression](/code/07-app-tobit.ipynb)
-* [Application to binary response data](/code/08-app-binary.ipynb)
-* [Application to seemingly unrelated regression](/code/09-app-sur.ipynb)
-* [Application to panel data](/code/10-app-panel.ipynb)
-* [Application to regression with autoregressive error](/code/11-app-ar.ipynb)
-
-Acknowledgments: development of these lectures has been greatly benefited from discussions with Siddhartha Chib and Hailong Qian. [ChatGPT](https://openai.com/blog/chatgpt) and [GitHub Copilot](https://github.com/features/copilot) provide excellent teaching assistance on Python programs.
+* [Lecture 0: Understanding the Market](/pdf/E3120Slides0.pdf)
+* [Lecture 1: Introduction](/pdf/E4310lec1.pdf)
+* [Lecture 2: National Income Accounting and Balance of Payments](/pdf/E4310lec2.pdf)
+* [Lecture 3: Exchange Rates and Foreign Exchange Market](/pdf/E4310lec3.pdf)
+* [Lecture 4: Money, Interest Rates, and Exchange Rates](/pdf/E4310lec4.pdf)
+* [Lecture 5: Price Levels and Exchange Rate in the Long Run](/pdf/E4310lec5.pdf)
+* [Lecture 6: Output and Exchange Rate in the Short Run](/pdf/E4310lec6.pdf)
+* [Lecture 7: Fixed Exchange Rates and Foreign Exchange Intervention](/pdf/E4310lec7.pdf)
+* [Supplementary: International Macroeconomics](http://www.columbia.edu/~mu2166/UIM/) (by Schmitt-Grohe, Uribe, and Woodford)
