@@ -1,5 +1,9 @@
 # ECON 4310 - International Macroeconomics
 
+<p align="center">
+  <img src="e4310.jpg" alt="awww" width="50%" height="50%">
+</p>
+
 International economics takes both the micro and macro perspectives to study how nations interact through trade of goods and services, flows of money, and investment. It can be divided into two interrelated subfields: international trade and international finance. This course adopts the macro perspective on international economics, building on the foundations developed in intermediate-level macroeconomics. It provides analytical tools and formal models to explain, in particular, balance of payments and exchange rate determination. Students can apply this set of tools and models to understand current international macroeconomic events, forecast the behavior of the global economy, assess the impact of real world policy choices, and make money.
 
 ## Class Information
