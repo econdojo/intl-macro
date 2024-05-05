@@ -1,4 +1,4 @@
-# ECON 4310 - International Macroeconomics
+# International Macroeconomics
 
 <p align="center">
   <img src="e4310.jpg" alt="awww" width="50%" height="50%">
