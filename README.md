@@ -15,7 +15,7 @@ International economics takes both the micro and macro perspectives to study how
 ## Lecture Slides
 
 * [Lecture 0: What is Economics](/pdf/E3120Slides0.pdf)
-* [Lecture 1: Introduction](/pdf/E4310lec1.pdf)
+* [Lecture 1: Introduction](/pdf/Openlec1.pdf)
 * [Lecture 2: National Income Accounting and Balance of Payments](/pdf/E4310lec2.pdf)
 * [Lecture 3: Exchange Rates and Foreign Exchange Market](/pdf/E4310lec3.pdf)
 * [Lecture 4: Money, Interest Rates, and Exchange Rates](/pdf/E4310lec4.pdf)
