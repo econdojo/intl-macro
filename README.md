@@ -21,5 +21,5 @@ International economics takes both the micro and macro perspectives to study how
 * [Lecture 4: Money, Interest Rates, and Exchange Rates](/pdf/Openlec4.pdf)
 * [Lecture 5: Price Levels and Exchange Rate in Long Run](/pdf/Openlec5.pdf)
 * [Lecture 6: Output and Exchange Rate in Short Run](/pdf/Openlec6.pdf)
-* [Lecture 7: Fixed Exchange Rates and Foreign Exchange Intervention](/pdf/E4310lec7.pdf)
+* [Lecture 7: Fixed Exchange Rates and Foreign Exchange Intervention](/pdf/Openlec7.pdf)
 * [Supplementary: International Macroeconomics](http://www.columbia.edu/~mu2166/UIM/) (by Schmitt-Grohe, Uribe, and Woodford)
